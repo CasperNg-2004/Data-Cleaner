@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CSV Data Cleaner
 
 A small, complete Streamlit application for inspecting CSV files, choosing safe cleaning operations, comparing results, and exporting both clean data and a plain-text audit report.

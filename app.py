@@ -99,7 +99,7 @@ def apply_cleaning() -> None:
     st.session_state.history = history
 
 
-st.title("🧹 CSV Data Cleaner")
+st.title("CSV Data Cleaner")
 st.caption("Inspect, clean, compare, and export CSV data without changing the uploaded file.")
 uploaded = st.file_uploader("Upload a CSV file", type=["csv"])
 
