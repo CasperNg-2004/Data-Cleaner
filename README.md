@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSV Data Cleaner
 
 A small, complete Streamlit application for inspecting CSV files, choosing safe cleaning operations, comparing results, and exporting both clean data and a plain-text audit report.
@@ -51,3 +52,7 @@ requirements.txt               Runtime and test dependencies
 - Cleaning always starts from the uploaded dataset, so repeatedly clicking the button does not compound transformations.
 - Potentially destructive choices are explicit. Outliers and invalid values are surfaced but not automatically removed.
 - The browser upload remains unchanged; users download a new cleaned file.
+=======
+# Data-Cleaner
+A web-based data cleaner
+>>>>>>> 411dbd4fa8cdc9f9a43a163cb32c4a776a5604c3
