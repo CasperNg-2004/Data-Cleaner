@@ -1,0 +1,7 @@
+ Customer Name ,Age,Country,Email,Salary,Signup Date
+"  Aisha  Rahman ",29,MALAYSIA,aisha@example.com,4200,2025-01-15
+"Daniel Tan",,malaysia,daniel@example.com,5100,2025-02-30
+"Daniel Tan",,malaysia,daniel@example.com,5100,2025-02-30
+"  Mei Ling",150,SINGAPORE,not-an-email,-200,not-a-date
+"Arun Kumar",35,"  india  ",arun@example.com,6200,2025-03-09
+"Siti Noor",27,Malaysia,,unknown,2025-04-11
